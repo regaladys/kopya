@@ -1,7 +1,7 @@
 # kopya
 Collaborative digital library
 
-# Build Your Own Library
+# Build Your Own Library!
 
 1. Collect your ebooks
 2. Set-up your digital library platform - device and software
@@ -39,3 +39,6 @@ Collaborative digital library
 7. Connect to your Library over wifi
 8. If everything works, set RPi to start without a display.
 9. Start reading!
+
+# Where to get books?
+1. ProjectGutenberg
