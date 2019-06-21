@@ -4,7 +4,7 @@ Collaborative digital library
 # Build Your Own Library
 
 1. Collect your ebooks
-2. Set-up your digital library software
+2. Set-up your digital library platform - device and software
 * on a desktop/laptop
 * on a smartphone
 * on a portable server using RaspberryPi
