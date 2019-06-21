@@ -1,17 +1,19 @@
 # kopya
-Collaborative digital library
+Collaborative digital library by Czyka Tumaliuan, Josefti Nito, Gladys Regalado.
 
 # Build Your Own Library!
 
-1. Collect your ebooks
+1. Collect your eBooks.
 2. Set-up your digital library platform - device and software
 * on a desktop/laptop
 * on a smartphone
 * on a portable server using RaspberryPi
 
 ## Desktop/Laptop
+Install Calibre on your PC running Windows, Mac or Linux. Download Calibre here https://calibre-ebook.com/download. Upload your books on Calibre.
 
 ## Smartphone
+Install an eBook reader like MoonReader, https://www.moondownload.com/. Upload your books to your reader.
 
 ## Portable Library Server
 
@@ -41,4 +43,9 @@ Collaborative digital library
 9. Start reading!
 
 # Where to get books?
-1. ProjectGutenberg
+1. ProjectGutenberg, https://www.gutenberg.org/
+2. Open Culture, http://www.openculture.com/free_ebooks
+3. Internet Archive, https://archive.org/details/texts
+4. International Children's Digital Library, http://en.childrenslibrary.org/
+5. Open Library, https://openlibrary.org
+
