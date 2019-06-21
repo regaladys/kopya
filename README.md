@@ -9,9 +9,9 @@ Collaborative digital library
 * on a smartphone
 * on a portable server using RaspberryPi
 
-## On your Desktop/Laptop
+## Desktop/Laptop
 
-## On your smartphone
+## Smartphone
 
 ## Portable Library Server
 
@@ -30,3 +30,12 @@ Collaborative digital library
 * RaspAP
 
 ### Instructions
+1. Prepare SD Card with OS
+2. Put together RPi
+3. Install Calibre E-Library and Calibre Web
+4. Upload books to Calibre
+5. Set Calibre Web to start automatically
+6. Install RaspAP
+7. Connect to your Library over wifi
+8. If everything works, set RPi to start without a display.
+9. Start reading!
