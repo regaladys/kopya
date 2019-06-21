@@ -10,7 +10,7 @@ Collaborative digital library by Czyka Tumaliuan, Josefti Nito, Gladys Regalado.
 * on a portable server using RaspberryPi
 
 ## Desktop/Laptop
-Install Calibre on your PC running Windows, Mac or Linux. Download Calibre here https://calibre-ebook.com/download. Upload your books on Calibre.
+Install Calibre on your PC running Windows, Mac or Linux. Download Calibre here https://calibre-ebook.com/download. Upload your books on Calibre. To share 
 
 ## Smartphone
 Install an eBook reader like MoonReader, https://www.moondownload.com/. Upload your books to your reader.
