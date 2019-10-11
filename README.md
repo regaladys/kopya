@@ -37,6 +37,27 @@ Install an eBook reader like MoonReader, https://www.moondownload.com/. Upload y
 3. Install Calibre E-Library and Calibre Web
 4. Upload books to Calibre
 5. Set Calibre Web to start automatically
+a. Create a unit file in '/lib/systemd/system/kopya.service'
+'''
+ [Unit]
+ Description=My Sample Service
+ After=multi-user.target
+
+ [Service]
+ Type=idle
+ ExecStart=/usr/bin/python /home/pi/sample.py
+
+ [Install]
+ WantedBy=multi-user.target
+'''
+b. Set permissions of unit file
+'sudo chmod 644 /lib/systemd/system/sample.service'
+
+c. Configure systemd to start unit file during boot sequence
+'sudo systemctl daemon-reload'
+'sudo systemctl enable sample.service'
+Reference: https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
+
 6. Install RaspAP
 7. Connect to your Library over wifi
 8. If everything works, set RPi to start without a display.
